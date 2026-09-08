@@ -62,15 +62,15 @@ The interactive Power BI dashboard includes:
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](images/dashboard_screenshot.png)
+!dashboardimage.png
 
 ## Key Insights
 
-* Clothing category generated the highest revenue.
-* Young Adult customers contributed the highest revenue among age groups.
-* A significant portion of customers were non-subscribers.
-* Discount usage influenced purchasing behavior across multiple categories.
-* Repeat buyers showed notable subscription engagement.
+- **Clothing generated the highest revenue (~$104K)** and the most orders (~1.74K), making it the top-performing category.
+- **Accessories ranked second**, contributing approximately **$74K in revenue and 1.24K orders**.
+- **Only 27% of customers are subscribers**, while **73% are non-subscribers**, highlighting a significant opportunity to improve subscription adoption.
+- **Young Adults generated the highest revenue and order volume** among all age groups, making them an important customer segment.
+- **Outerwear was the weakest-performing category**, generating approximately **$19K in revenue and 320 orders**, indicating potential for targeted promotions or product optimization.
 
 ## Repository Structure
 
@@ -90,7 +90,7 @@ customer-shopping-behavior-analysis/
 │   └── Customer_Behavior_Dashboard.pbix
 │
 ├── images/
-│   └── dashboard_screenshot.png
+│   └── dashboardimage.png
 │
 └── README.md
 ```
